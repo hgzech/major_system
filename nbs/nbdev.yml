@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "major_system"
+  site-url: "https://hgzech.github.io/major_system"
+  description: "A project that helps use the major mnemonic system."
+  repo-branch: main
+  repo-url: "https://github.com/hgzech/major_system"
